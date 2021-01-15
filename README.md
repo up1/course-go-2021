@@ -24,7 +24,7 @@
 * Packages
 
 ### Collections Types
-* Array
+* [Array](https://github.com/up1/course-go-2021/tree/main/demo/array)
 * Slice
 * Map
 
