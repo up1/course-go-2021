@@ -14,7 +14,7 @@
 * Data types and type coversion
 * Constants
 
-### Control structures
+### [Control Flows](https://github.com/up1/course-go-2021/tree/main/demo/control_flow)
 * if
 * for
 * switch
