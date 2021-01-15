@@ -29,7 +29,7 @@
 * [Map](https://github.com/up1/course-go-2021/tree/main/demo/map)
 
 ### Pointers and Structs
-* Pointer
+* [Pointer](https://github.com/up1/course-go-2021/tree/main/demo/pointer)
 * Struct
 
 ### Methods and Interfaces
