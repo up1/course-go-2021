@@ -20,7 +20,7 @@
 * switch
 
 ### Functions and Packages
-* Functions
+* [Functions](https://github.com/up1/course-go-2021/tree/main/demo/function)
 * Packages
 
 ### Collections Types
