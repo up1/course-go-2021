@@ -1,4 +1,4 @@
-# Golang workshop 2021
+# Golang Workshop 2021
 
 ### [Getting start](https://github.com/up1/course-go-2021/tree/main/demo/hello)
 * Writing first Go program
