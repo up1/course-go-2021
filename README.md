@@ -1,6 +1,6 @@
 # Golang workshop 2021
 
-### [Getting start](https://github.com/up1/course-go-2021/tree/main/demo/01-hello)
+### [Getting start](https://github.com/up1/course-go-2021/tree/main/demo/hello)
 * Writing first Go program
 * Development workflows
   * Coding
@@ -9,7 +9,7 @@
   * Build and install
 
 ### Variables, Data types and Constants
-* [Variables](https://github.com/up1/course-go-2021/tree/main/demo/02-variables)
+* [Variables](https://github.com/up1/course-go-2021/tree/main/demo/variables)
 * Zero values
 * Data types and type coversion
 * Constants
