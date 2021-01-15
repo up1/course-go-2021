@@ -1,4 +1,4 @@
-# golang workshop 2021
+# Golang workshop 2021
 
 ### Getting start
 * Writing first Go program
