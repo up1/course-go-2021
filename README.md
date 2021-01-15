@@ -1,7 +1,7 @@
 # Golang workshop 2021
 
-### Getting start
-* [Writing first Go program](https://github.com/up1/course-go-2021/tree/main/demo/01-hello)
+### [Getting start](https://github.com/up1/course-go-2021/tree/main/demo/01-hello)
+* Writing first Go program
 * Development workflows
   * Coding
   * Formatting, Lining, Vet
