@@ -34,5 +34,5 @@
 * [Struct](https://github.com/up1/course-go-2021/tree/main/demo/struct)
 
 ### Methods and Interfaces
-* Method :: function with a receiver argument
+* [Method :: function with a receiver argument](https://github.com/up1/course-go-2021/tree/main/demo/method)
 * Interface
