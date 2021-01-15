@@ -9,7 +9,7 @@
   * Build and install
 
 ### Variables, Data types and Constants
-* Variables
+* [Variables](https://github.com/up1/course-go-2021/tree/main/demo/02-variables)
 * Zero values
 * Data types and type coversion
 * Constants
