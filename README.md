@@ -35,7 +35,7 @@
 
 ### Methods and Interfaces
 * [Method :: function with a receiver argument](https://github.com/up1/course-go-2021/tree/main/demo/method)
-* Interface
+* [Interface](https://github.com/up1/course-go-2021/tree/main/demo/interface)
 
 ### Testing and Benchmark
 * [Working with JSON](https://github.com/up1/course-go-2021/tree/main/demo/json)
