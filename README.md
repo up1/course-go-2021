@@ -26,7 +26,7 @@
 ### Collections Types
 * [Array](https://github.com/up1/course-go-2021/tree/main/demo/array)
 * [Slice](https://github.com/up1/course-go-2021/tree/main/demo/slice)
-* Map
+* [Map](https://github.com/up1/course-go-2021/tree/main/demo/map)
 
 ### Pointers and Structs
 * Pointer
