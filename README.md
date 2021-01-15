@@ -39,3 +39,7 @@
 
 ### Testing and Benchmark
 * [Working with JSON](https://github.com/up1/course-go-2021/tree/main/demo/json)
+
+### Using Go Packages
+* [JSON Encoding](https://github.com/up1/course-go-2021/tree/main/demo/json)
+* [Logging](https://github.com/up1/course-go-2021/tree/main/demo/logging)
