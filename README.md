@@ -31,7 +31,7 @@
 
 ### Pointers and Structs
 * [Pointer](https://github.com/up1/course-go-2021/tree/main/demo/pointer)
-* Struct
+* [Struct](https://github.com/up1/course-go-2021/tree/main/demo/struct)
 
 ### Methods and Interfaces
 * Method :: function with a receiver argument
