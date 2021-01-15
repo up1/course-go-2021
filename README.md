@@ -21,6 +21,7 @@
 
 ### Functions and Packages
 * [Functions](https://github.com/up1/course-go-2021/tree/main/demo/function)
+  * Defer, Panic and Recover
 * Packages
 
 ### Collections Types
