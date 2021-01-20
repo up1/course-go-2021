@@ -1,5 +1,10 @@
 # Golang Workshop 2021
 
+## Workshops
+* https://github.com/up1/workshop-golang-20210116
+
+## Topics
+
 ### Getting start
 * [Writing first Go program](https://github.com/up1/course-go-2021/tree/main/demo/hello)
 * Development workflows
