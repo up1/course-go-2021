@@ -1,6 +1,6 @@
 # Go Workshop 2021
 
-## Workshops
+## Workshops with REST APIs
 * https://github.com/up1/workshop-golang-20210116
 
 ## Topics
