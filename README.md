@@ -1,4 +1,4 @@
-# Golang Workshop 2021
+# Go Workshop 2021
 
 ## Workshops
 * https://github.com/up1/workshop-golang-20210116
