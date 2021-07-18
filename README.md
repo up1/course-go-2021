@@ -2,6 +2,8 @@
 
 ## Workshops with REST APIs
 * https://github.com/up1/workshop-golang-20210116
+* [Working with PostgreSQL](https://github.com/up1/workshop-devops-go)
+* [Workishop microservice](https://github.com/up1/microservices-workshop-with-go)
 
 ## Topics
 
