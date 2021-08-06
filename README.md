@@ -1,6 +1,18 @@
 # Go Workshop 2021
 
 ## Workshops with REST APIs
+* https://github.com/up1/workshop-go-rest-api
+  * Gin
+    * REST API
+    * Middleware
+      * Authentication with JWT
+      * Application metric with Prometheus 
+      * Distributed tracing (OpenTelemetry + Jaeger)
+  * Database
+    * SQL
+    * NoSQL
+  * API testing with Postman
+  * Circuite breaker
 * https://github.com/up1/workshop-golang-20210116
 * https://github.com/up1/workshop-go-20201019/blob/main/demo/rest_api/README.md
 * [Working with PostgreSQL](https://github.com/up1/workshop-devops-go)
