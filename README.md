@@ -10,7 +10,12 @@
       * Distributed tracing (OpenTelemetry + Jaeger)
   * Database
     * SQL
+      * MySQL
+      * PostgreSQL
+      * MS SQL Server 
     * NoSQL
+      * MongoDB
+      * Redis 
   * API testing with Postman
   * Circuite breaker
 * https://github.com/up1/workshop-golang-20210116
